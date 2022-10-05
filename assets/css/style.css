@@ -17,7 +17,9 @@ body{
 
 }
 
-
+.random-img img{
+    margin: 2%;
+}
 
 nav{
     color: #fff !important;
